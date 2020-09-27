@@ -1,4 +1,11 @@
 # Setting up Communications
+## Admin Matters:
+- This repository will be used to assign tasks for the week.
+- If you are not too familiar with the usage of github, do not worry we will breifly go through it in the first Comms meeting!
+- First off, click on **Watch** located at the top of the repo screen to get updates related to the repository.
+- Secondly, the general rule of thumb when adding/removing/editing code in any of the Comms repos and subrepos is this:
+1. For the first time you are contributing to the repository: remember to fork it to your account. This creates a new repository under your account, where you can edit and branch code. You can commit and push changes to your fork BUT DO NOT COMMIT CHANGES DIRECTLY TO THIS REPOSITORY.
+2. Once you have made changes to your forked repo, you can make a **pull request** to the main repo. From there on, the comms leads will review the code and merge/not merge it with the main code accordingly.
 
 ## Weeks 1 and 2: Literature Review
 
