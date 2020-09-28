@@ -11,4 +11,4 @@
 1. For the first time you are contributing to the repository: remember to fork it to your account. This creates a new repository under your account, where you can edit and branch code. You can commit and push changes to your fork BUT DO NOT COMMIT CHANGES DIRECTLY TO THIS REPOSITORY.
 2. Once you have made changes to your forked repo, you can make a **pull request** to the main repo. From there on, the comms leads will review the code and merge/not merge it with the main code accordingly.
 
-## [Weeks 1 and 2: Literature Review](https://github.com/NUS-Rover-Team/wirelesscommunications/blob/master/Week%201/Tasks.md)
+### [Weeks 1 and 2: Literature Review](https://github.com/NUS-Rover-Team/wirelesscommunications/blob/master/Week%201/Tasks.md)
