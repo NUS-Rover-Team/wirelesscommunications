@@ -34,5 +34,5 @@
 - Read about the communication system used in Mars Rovers like Curiosity and Perseverance.
 
 ### 4. Antenna Selection
-- Watch [https://www.youtube.com/watch?v=46SbGxS73dY](this video) explaining antenna fundamentals.
-- An article on increasing range in wireless communication: [http://robotsforroboticists.com/long-distance-wireless-communications-antennas/](click here)
+- Watch [this video](https://www.youtube.com/watch?v=46SbGxS73dY) explaining antenna fundamentals.
+- An article on increasing range in wireless communication: [click here](http://robotsforroboticists.com/long-distance-wireless-communications-antennas/)
