@@ -27,7 +27,7 @@
 
 ### Compulsory readings
 
-- [This website] (https://commotionwireless.net/docs/cck/networking/learn-wireless-basics/) is a walkthorugh of wireless comms basics.
+- [This website](https://commotionwireless.net/docs/cck/networking/learn-wireless-basics/) is a walkthorugh of wireless comms basics.
 
 # Week 2: Literature Review and Hardware Selection
 
