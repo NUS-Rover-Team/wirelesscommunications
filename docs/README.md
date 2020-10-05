@@ -11,6 +11,13 @@
 1. For the first time you are contributing to the repository: remember to fork it to your account. This creates a new repository under your account, where you can edit and branch code. You can commit and push changes to your fork BUT DO NOT COMMIT CHANGES DIRECTLY TO THIS REPOSITORY.
 2. Once you have made changes to your forked repo, you can make a **pull request** to the main repo. From there on, the comms leads will review the code and merge/not merge it with the main code accordingly.
 
+### **Are you new to git source code control?**
+Here are some links that will help:
+1. [Git Tutorial](https://git-scm.com/docs/gittutorial)
+2. [Git Branching Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+
+We'll do an example of general workflow in the 1st team meeting.
+
 # Week 1: Literature Review
 
 ### 1. NASA's Rover Projects
