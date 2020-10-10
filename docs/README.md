@@ -18,17 +18,19 @@ Here are some links that will help:
 
 We'll do an example of general workflow in the 1st team meeting. Before that, do the 1st part of the workflow procedure as specified [HERE.](https://github.com/NUS-Rover-Team/wirelesscommunications/blob/master/docs/workflowpractice.md)
 
-### **Know your ROS**
-You can view the ROS tutorials [HERE.](http://wiki.ros.org/ROS/Tutorials)
-Start early so that you know how to go about it as our system will be primarily based on ROS.
+### **Know Your ROS**
+Shock! Horror! ROS may sound daunting to people new to it, but fret not! There is an abundance of great resources on the web to help you get kickstarted with ROS.
+- You can read up ROS tutorials [HERE.](http://wiki.ros.org/ROS/Tutorials)
+- Or watch [this youtube playlist](https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8) on ROS.
+Start early so that you know how to go about it as our system will be primarily based on ROS. You would require a linux based machine to work with ROS. We'd reccomend installing [Linux Subsystem for Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or in case you are using a Mac, you might want to consider [partitioning your laptop](https://www.lifewire.com/dual-boot-linux-and-mac-os-4125733) (not reccomended, just due to risk of losing data on your laptop). Alternatively, you could try using a virtual OS layer like Parallels or VirtualBox.
 
-# Week 1: Literature Review
+# Week 1: Literature Review [x]
 
-### 1. NASA's Rover Projects
+### 1. NASA's Rover Projects [x]
 
 - Read about the communication system used in Mars Rovers like [Curiosity](https://mars.nasa.gov/msl/mission/communications/) and [Perseverance](https://mars.nasa.gov/mars2020/spacecraft/rover/communications/).
 
-### 2. Why Comms? 
+### 2. Why Comms? [x]
 
 - Why is communication needed for the rover?
 - Why is wireless communication important?
@@ -36,7 +38,7 @@ Start early so that you know how to go about it as our system will be primarily 
 - What are the subsystems that require communication?
 - What is the direction of transfer?
 
-### Compulsory readings
+### Compulsory readings [x]
 
 - [This website](https://commotionwireless.net/docs/cck/networking/learn-wireless-basics/) is a walkthorugh of wireless comms basics.
 
@@ -54,6 +56,10 @@ Start early so that you know how to go about it as our system will be primarily 
 
 - Watch [this video](https://www.youtube.com/watch?v=46SbGxS73dY) explaining antenna fundamentals.
 - An article on increasing range in wireless communication: [click here](http://robotsforroboticists.com/long-distance-wireless-communications-antennas/)
+- Select atleast 2 antennae that we could potentially use for comms. But the relevant information in the Brain Dump doc on teams. You must be able to justify why you selected that particular piece of hardware. Chosen hardware must comply with the URC guidelines for communications equipment.
+
+### 5. _Surprise Task_ :0
+Just kidding, this task is a reminder for you to begin reading up on ROS! Links are in the section before Week 1 Lit Review. 
 
 ### Additional Readings
 
