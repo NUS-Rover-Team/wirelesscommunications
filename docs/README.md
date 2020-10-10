@@ -18,6 +18,10 @@ Here are some links that will help:
 
 We'll do an example of general workflow in the 1st team meeting. Before that, do the 1st part of the workflow procedure as specified [HERE.](https://github.com/NUS-Rover-Team/wirelesscommunications/blob/master/docs/instructions/workflowpractice.md)
 
+### **Know your ROS**
+You can view the ROS tutorials [HERE.](http://wiki.ros.org/ROS/Tutorials)
+Start early so that you know how to go about it as our system will be primarily based on ROS.
+
 # Week 1: Literature Review
 
 ### 1. NASA's Rover Projects
