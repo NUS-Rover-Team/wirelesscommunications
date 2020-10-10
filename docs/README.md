@@ -16,7 +16,7 @@ Here are some links that will help:
 1. [Git Tutorial](https://git-scm.com/docs/gittutorial)
 2. [Git Branching Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
-We'll do an example of general workflow in the 1st team meeting. Before that, do the 1st part of the workflow procedure as specified [HERE.](docs/workflowpractice.md)
+We'll do an example of general workflow in the 1st team meeting. Before that, do the 1st part of the workflow procedure as specified [HERE.](https://github.com/NUS-Rover-Team/wirelesscommunications/blob/master/docs/workflowpractice.md)
 
 ### **Know your ROS**
 You can view the ROS tutorials [HERE.](http://wiki.ros.org/ROS/Tutorials)
