@@ -24,13 +24,13 @@ Shock! Horror! ROS may sound daunting to people new to it, but fret not! There i
 - Or watch [this youtube playlist](https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8) on ROS.
 Start early so that you know how to go about it as our system will be primarily based on ROS. You would require a linux based machine to work with ROS. We'd reccomend installing [Linux Subsystem for Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or in case you are using a Mac, you might want to consider [partitioning your laptop](https://www.lifewire.com/dual-boot-linux-and-mac-os-4125733) (not reccomended, just due to risk of losing data on your laptop). Alternatively, you could try using a virtual OS layer like Parallels or VirtualBox.
 
-# Week 1: Literature Review [x]
+# Week 1: Literature Review
 
-### 1. NASA's Rover Projects [x]
+### 1. NASA's Rover Projects
 
 - Read about the communication system used in Mars Rovers like [Curiosity](https://mars.nasa.gov/msl/mission/communications/) and [Perseverance](https://mars.nasa.gov/mars2020/spacecraft/rover/communications/).
 
-### 2. Why Comms? [x]
+### 2. Why Comms?
 
 - Why is communication needed for the rover?
 - Why is wireless communication important?
@@ -38,7 +38,7 @@ Start early so that you know how to go about it as our system will be primarily 
 - What are the subsystems that require communication?
 - What is the direction of transfer?
 
-### Compulsory readings [x]
+### Compulsory readings
 
 - [This website](https://commotionwireless.net/docs/cck/networking/learn-wireless-basics/) is a walkthorugh of wireless comms basics.
 
