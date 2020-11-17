@@ -1,3 +1,7 @@
+---
+layout : page
+title : Comms Workflow
+---
 # GitHub Workflow Practice for Comms
 
 ## What is workflow?

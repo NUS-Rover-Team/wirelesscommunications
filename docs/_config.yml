@@ -1,1 +1,13 @@
-theme: jekyll-theme-leap-day
+title: "Communications Subteam"
+theme: minima
+
+header_pages:
+  - tasks.md
+  - progress.md
+
+markdown: kramdown
+
+repository: "NUS-Rover-Team/wirelesscommunications"
+
+plugins:
+  - jemoji
