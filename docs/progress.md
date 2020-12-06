@@ -35,7 +35,7 @@ title : Progress
 </div>
 
 <div markdown="span" class="alert-tip">
-:satellite: Meeting 24/10/2020 - Antennae Selection
+:satellite: **Meeting 24/10/2020:** Antennae Selection
 </div>
 
 **Choices:**  
