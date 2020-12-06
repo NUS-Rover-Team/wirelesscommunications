@@ -3,7 +3,7 @@ layout : page
 title : Communications Subteam
 ---
 
-* Find tasks [here](tasks.md)
+* Find tasks [here](tasks.md) UPDATED WITH VACATION TASKS
 * Find progress report [here](progress.md)
 
 # Setting up Communications
