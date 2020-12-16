@@ -20,6 +20,10 @@ Till then, let's cover some things to finish by the end of the vacation:
 
 ## **Networking With ROS**
 
+### Basic networking with ROS
+Network setup: http://wiki.ros.org/ROS/NetworkSetup
+Running ROS across multiple REMOTE machines: http://wiki.ros.org/ROS/Tutorials/MultipleRemoteMachines#The_ROS_network
+
 The great thing about open source software, is that we can gather ideas and _code_ from different matured systems to create
 our own! (All whilst citing and crediting sources appropriately)
 
