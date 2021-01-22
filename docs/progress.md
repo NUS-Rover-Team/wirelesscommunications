@@ -71,6 +71,11 @@ Seller: https://www.engeniustech.com.sg/products/wireless/accessories/sa2216
 
 ![Architecture](tasks/archi-v1.png)
 
+
+
+<div markdown="span" class="alert alert-primary">
+:information_source: **Current Stage:** Confirmed Ubiquiti M2 Base Station
+</div>
  
 
  
