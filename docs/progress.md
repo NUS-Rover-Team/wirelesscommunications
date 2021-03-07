@@ -96,7 +96,7 @@ Seller: https://www.engeniustech.com.sg/products/wireless/accessories/sa2216
 
 :confused: Unsuccessful (might be due to OS issue?)
 
-<div markdown="span" class="alert alert-tip">
+<div markdown="span" class="alert-tip">
 :confetti_ball: **Milestone 06/03/2021:** SAR Video Submission
 </div>
 Successfully demonstrated web-based base station interface that uses bootstrap + ROS
