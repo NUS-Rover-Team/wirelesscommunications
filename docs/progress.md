@@ -77,5 +77,30 @@ Seller: https://www.engeniustech.com.sg/products/wireless/accessories/sa2216
 :information_source: **Current Stage:** Confirmed Ubiquiti M2 Base Station
 </div>
  
-
+<div markdown="span" class="alert-tip">
+:satellite: **Meeting 05/02/2021:** Pinging the Jetson
+</div>
  
+:tada: Successfully pinged Jetson via TP-link router!
+:tada: Ping distance up to 80 meters
+ 
+<div markdown="span" class="alert-tip">
+:satellite: **Meeting 19/02/2021:** Getting wifi to the Jetson
+</div>
+
+:confused: Unsuccessful, try with Raspberry Pi instead
+
+<div markdown="span" class="alert-tip">
+:satellite: **Meeting 23/02/2021:** Full Rover Team Meeting + Getting wifi to Raspberry Pi
+</div>
+
+:confused: Unsuccessful (might be due to OS issue?)
+
+<div markdown="span" class="alert alert-success">
+:confetti_ball: **Milestone:** SAR Video Submission
+</div>
+Successfully demonstrated web-based base station interface that uses bootstrap + ROS
+
+<div markdown="span" class="alert alert-primary">
+:information_source: **Current Stage:** Testing Ubiquiti M2's
+</div>
